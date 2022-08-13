@@ -1,0 +1,52 @@
+{"products":[
+    {"id":1, 
+    "productName":"iPhone",
+    "price":10000, 
+    "quantity":0
+},
+    {"id":2,
+    "productName":"Shoe", 
+    "price":100, 
+    "quantity":0
+},
+    {"id":3, 
+    "productName":"Bag", 
+    "price":200, 
+    "quantity":0
+},
+    {"id":4,
+    "productName":"Watch", 
+    "price":300, 
+    "quantity":0
+},
+    {"id":5, 
+    "productName":"Laptop", 
+    "price":2000, 
+    "quantity":0
+},
+    {"id":6, 
+    "productName":"Dress", 
+    "price":500, 
+    "quantity":0
+},
+    {"id":7,
+    "productName":"Doll", 
+    "price":150, 
+    "quantity":0
+},
+    {"id":8, 
+    "productName":"Camera", 
+    "price":5000, 
+    "quantity":0
+},
+    {"id":9, 
+    "productName":"Pants", 
+    "price":250, 
+    "quantity":0
+},
+    {"id":10, 
+    "productName":"LED TV", 
+    "price":9997, 
+    "quantity":0
+}
+]}
